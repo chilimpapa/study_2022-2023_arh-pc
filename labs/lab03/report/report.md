@@ -108,7 +108,7 @@ header-includes:
 
 7. Загрузим на github отчет. 
 
-![Загрузим отчет на github](image/5.jpg){ #fig:005 width=90% }
+![Загрузим отчет на github](image/5.jpg){#fig:005 width=90%}
 
 # Выводы
 
